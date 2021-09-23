@@ -3,17 +3,18 @@ import "firebase/database";
 
 const config = {
   // API keys
-  apiKey: "AIzaSyA2_9OLlv-B8zqFe42MkZitpWAE8nvWB_E",
+  apiKey: "AIzaSyDbTylDHBI3brKezJGsD6H4gwW76OIe1VM",
 
-  authDomain: "firechatapp-1fa3e.firebaseapp.com",
+  authDomain: "chatfireapp-d9417.firebaseapp.com",
 
-  projectId: "firechatapp-1fa3e",
+  projectId: "chatfireapp-d9417",
 
-  storageBucket: "firechatapp-1fa3e.appspot.com",
+  storageBucket: "chatfireapp-d9417.appspot.com",
 
-  messagingSenderId: "1008459532798",
+  messagingSenderId: "491439477738",
 
-  appId: "1:1008459532798:web:41d6e449703998e63cd8af",
+  appId: "1:491439477738:web:206a47f12cb5670582d893"
+
 };
 
 const db = firebase.initializeApp(config);
